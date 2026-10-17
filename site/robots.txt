@@ -1,0 +1,5 @@
+# Lowe & Rogers Family Tree: one public page; the tree itself is private.
+User-agent: *
+Allow: /
+
+Sitemap: https://dmvthrowers.club/Family-tree-public/sitemap.xml
