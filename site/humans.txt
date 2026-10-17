@@ -1,0 +1,8 @@
+/* TEAM */
+Kept by: the Lowe and Rogers families
+Site: https://dmvthrowers.club/Family-tree-public/
+
+/* SITE */
+Last update: 2026-10-17
+Standards: HTML5, CSS3
+Fonts: Young Serif, Public Sans, IBM Plex Mono (SIL Open Font License), self-hosted

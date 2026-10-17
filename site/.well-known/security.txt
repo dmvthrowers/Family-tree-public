@@ -1,0 +1,4 @@
+Contact: mailto:Brandon.james.rogers@outlook.com
+Expires: 2027-10-17T00:00:00Z
+Preferred-Languages: en
+Canonical: https://dmvthrowers.club/Family-tree-public/.well-known/security.txt

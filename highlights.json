@@ -1,0 +1,39 @@
+[
+ {
+  "name": "Col. Karl H. Lowe",
+  "about": "U.S. Army. Silver Star, Vietnam, 1970.",
+  "links": [
+   {
+    "label": "Silver Star citation (Military Times Hall of Valor)",
+    "url": "https://valor.militarytimes.com/?p=115525"
+   },
+   {
+    "label": "Obituary (Patch, 2014)",
+    "url": "https://patch.com/virginia/fairfaxcity/col-karl-lowe-71"
+   }
+  ],
+  "checked": "2026-10-17"
+ },
+ {
+  "name": "Patrolman John Harold Robinson Jr.",
+  "about": "Memphis Police Department. Killed in the line of duty.",
+  "links": [
+   {
+    "label": "Officer Down Memorial Page",
+    "url": "https://www.odmp.org/officer/15328"
+   }
+  ],
+  "checked": "2026-10-17"
+ },
+ {
+  "name": "Sal Buscema",
+  "about": "Comic book artist.",
+  "links": [
+   {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sal_Buscema"
+   }
+  ],
+  "checked": "2026-10-17"
+ }
+]
